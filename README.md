@@ -1,32 +1,36 @@
-# E-Commerce Sales Analysis | MySQL Project
+# # E-Commerce Sales Analysis - MySQL Project
 
-## 📊 Project Overview
-E-commerce company sales data ni MySQL lo analyze chesi business insights kanukkunna project.
+## Project Overview
+This project analyzes E-commerce sales data using MySQL to generate key business insights and support data-driven decisions.
 
-## 🔧 Nenu Emi Chesanu?
-- MySQL Database create chesa
-- Tables create chesi data import chesa
-- Important Business Questions ki SQL Queries rasenu:
-    - Total Sales & Profit entha?
-    - Top 5 Selling Products yevi?
-    - Month-wise sales trend ela undi?
-    - State-wise customers ekkuva unna place?
+## Objectives
+- Calculate total sales, profit, and order quantity
+- Identify top-selling products and categories
+- Analyze monthly and yearly sales trends
+- Find sales performance by state and region
 
-## 📁 Files in this Repo
-- `sales analysis.sql` - Motham SQL queries code
-- `README.md` - Project details
+## Files in this Repository
+- `sales analysis.sql` - Contains all SQL queries used for analysis
+- `README.md` - Project documentation
 
-## 💻 Tools Used
+## Tools & Technologies Used
 - MySQL Workbench
 - MySQL
 
-## 🚀 How to Run?
-1. MySQL Workbench open chey
-2. `sales analysis.sql` file ni open chey
-3. Query run chey - results vastayi
+## Key Queries Performed
+1.  Total Sales & Profit Calculation
+2.  Top 5 Products by Sales
+3.  Month-wise Sales Trend
+4.  State-wise Customer Analysis
+5.  Category-wise Profit Margin
 
-## 👩‍💻 Author
-Amrutha - Aspiring Data Analyst
+## How to Run This Project
+1. Open MySQL Workbench
+2. Open the `sales analysis.sql` file
+3. Execute the queries to see the results
+
+## Author
+Amrutha | Aspiring Data Analyst
 
 ---
-⭐ Nచ్చితే Star ivvandi!
+If you like this project, please give it a ⭐
